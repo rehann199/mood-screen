@@ -1,0 +1,18 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Working folders (not published)
+/analysis/
+/screenshots/
+
+# Never publish secrets or signing material
+node_modules/
+.env*
+*.db
+*.jks
+*.keystore
+key.properties
+google-services.json
